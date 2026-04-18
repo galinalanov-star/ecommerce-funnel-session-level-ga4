@@ -1,6 +1,5 @@
-# ecommerce-funnel-session-level-ga4
-Session-level ecommerce funnel analysis using GA4 data with Tableau dashboard and SQL queries
 # Ecommerce Funnel Session-Level Analysis (GA4 + Tableau)
+Session-level ecommerce funnel analysis using GA4 data with Tableau dashboard
 
 ## 📊 Dashboard Preview
 
@@ -14,7 +13,7 @@ Session-level ecommerce funnel analysis using GA4 data with Tableau dashboard an
 
 ## 🎯 Project Overview
 
-This project analyzes ecommerce funnel performance using session-level GA4 data.
+This project analyzes user behavior across the ecommerce funnel using session-level GA4 data to identify conversion bottlenecks and optimize performance.
 
 ## 🎯 Business Goal
 
